@@ -1,8 +1,12 @@
 # 0x64 network project
-- Computer Science final year school project.
-- A private and upgradable project with proof of existence as additional functionality.
-- Created customized functionalities by new pallets and logic in runtime customization.
+
+- University final year project (CS) - 2021 University of the Western Cape https://www.uwc.ac.za/
+- [x] Node & UX setup (project creation)
+- [x] A private and upgradable project
+- [x] proof of existence as additional functionality
+- [x] Balance transfers between user address
+
 ### Toolkit
+
 - Substrate blockchain frame > [website](https://substrate.io/)
 - ReactJS through > [substrate-front-end-template](https://github.com/substrate-developer-hub/substrate-front-end-template)
-
