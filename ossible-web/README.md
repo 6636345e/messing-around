@@ -1,3 +1,3 @@
 # Welcome To Ossible
 
-- Website hosted at: https://ossible.online
+- Website domain: https://ossible.online
