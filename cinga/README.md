@@ -2,7 +2,7 @@
 - Cinga is repository for Rust developers to think, solve & share programming problem sets and solutions.
 
 ## Clone & Build
- - [x] Commands from iOS environment and (Ubuntu OS)
+ - [x] Commands from MacOS & (Ubuntu OS)
 
 ```
 >> git clone https://github.com/6636345e/cinga.git
