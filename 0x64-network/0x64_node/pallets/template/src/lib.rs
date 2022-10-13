@@ -7,7 +7,7 @@ pub use pallet::*;
 pub mod pallet {
   use frame_support::pallet_prelude::*;
   use frame_system::pallet_prelude::*;
-  use sp_std::vec::Vec; // Step 3.1 will include this in `Cargo.toml`
+  use sp_std::vec::Vec; 
 
   /// Configure the pallet by specifying the parameters and types on which it depends.
   #[pallet::config]
@@ -84,7 +84,6 @@ impl<T: Config> Pallet<T> {
   ) -> DispatchResult {
     // Check that the extrinsic was signed and get the signer.
     // This function will return an error if the extrinsic is not signed.
-    // https://docs.substrate.io/v3/runtime/origins
     let sender = ensure_signed(origin)?;
 
     // Verify that the specified proof has been claimed.
