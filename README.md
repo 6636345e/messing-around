@@ -1,3 +1,3 @@
 # Main Repository
 
-- This repository contains 90% of my personal/fun projects.
+- This repository contains 90% of my personal projects.
